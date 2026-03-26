@@ -1,9 +1,0 @@
-com/arunalabs/bookmarker/mapper/BookmarkMapper.class
-com/arunalabs/bookmarker/repository/BookMarkRepository.class
-com/arunalabs/bookmarker/controller/BookMarkController.class
-com/arunalabs/bookmarker/DataInitializer.class
-com/arunalabs/bookmarker/service/BookMarkService.class
-com/arunalabs/bookmarker/dto/BookMarkDTO.class
-com/arunalabs/bookmarker/domain/BookMark.class
-com/arunalabs/bookmarker/BookmarkerApiApplication.class
-com/arunalabs/bookmarker/dto/BookMarksDTO.class
