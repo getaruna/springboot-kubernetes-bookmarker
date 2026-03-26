@@ -1,0 +1,4 @@
+com/arunalabs/bookmarker/TestcontainersConfiguration.class
+com/arunalabs/bookmarker/BookmarkerApiApplicationTests.class
+com/arunalabs/bookmarker/api/BookMarkControllerTest.class
+com/arunalabs/bookmarker/TestBookmarkerApiApplication.class

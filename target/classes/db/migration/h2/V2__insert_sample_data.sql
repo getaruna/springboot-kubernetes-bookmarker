@@ -1,0 +1,16 @@
+INSERT INTO bookmarks(title,url,created_at) VALUES
+('Google','https://www.google.com',CURRENT_TIMESTAMP()),
+('GitHub','https://www.github.com',CURRENT_TIMESTAMP()),
+('Stack Overflow','https://stackoverflow.com',CURRENT_TIMESTAMP()),
+('Reddit','https://www.reddit.com',CURRENT_TIMESTAMP()),
+('Hacker News','https://news.ycombinator.com',CURRENT_TIMESTAMP()),
+('Twitter','https://www.twitter.com',CURRENT_TIMESTAMP()),
+('Facebook','https://www.facebook.com',CURRENT_TIMESTAMP()),
+('LinkedIn','https://www.linkedin.com',CURRENT_TIMESTAMP()),
+('YouTube','https://www.youtube.com',CURRENT_TIMESTAMP()),
+('Amazon','https://www.amazon.com',CURRENT_TIMESTAMP()),
+('Netflix','https://www.netflix.com',CURRENT_TIMESTAMP()),
+('Spotify','https://www.spotify.com',CURRENT_TIMESTAMP()),
+('Medium','https://medium.com',CURRENT_TIMESTAMP()),
+('GitLab','https://gitlab.com',CURRENT_TIMESTAMP()),
+('Bitbucket','https://bitbucket.org',CURRENT_TIMESTAMP());

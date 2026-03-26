@@ -1,0 +1,9 @@
+/home/sfs/Downloads/kubernetes demo/src/main/java/com/arunalabs/bookmarker/BookmarkerApiApplication.java
+/home/sfs/Downloads/kubernetes demo/src/main/java/com/arunalabs/bookmarker/DataInitializer.java
+/home/sfs/Downloads/kubernetes demo/src/main/java/com/arunalabs/bookmarker/controller/BookMarkController.java
+/home/sfs/Downloads/kubernetes demo/src/main/java/com/arunalabs/bookmarker/domain/BookMark.java
+/home/sfs/Downloads/kubernetes demo/src/main/java/com/arunalabs/bookmarker/dto/BookMarkDTO.java
+/home/sfs/Downloads/kubernetes demo/src/main/java/com/arunalabs/bookmarker/dto/BookMarksDTO.java
+/home/sfs/Downloads/kubernetes demo/src/main/java/com/arunalabs/bookmarker/mapper/BookmarkMapper.java
+/home/sfs/Downloads/kubernetes demo/src/main/java/com/arunalabs/bookmarker/repository/BookMarkRepository.java
+/home/sfs/Downloads/kubernetes demo/src/main/java/com/arunalabs/bookmarker/service/BookMarkService.java
