@@ -1,4 +1,4 @@
 /target/
-.mvn/
+bookmarker-api/.mvn/
 .idea/
 *.class
